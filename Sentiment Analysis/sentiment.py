@@ -136,3 +136,6 @@ text_clf = text_clf.fit(X_train,y_train)
 predicted = text_clf.predict(X_test)
 np.mean(predicted == y_test)
 
+#Saving the model
+from sklearn.externals import joblib
+joblib.dump(text_clf, 'my_model.pkl')
