@@ -1,2 +1,3 @@
 # gsoc2018
-Gsoc 2018 proof of work
+This is the proof of work for GSoC application to CLiPS.
+Individual dodumentation of the projects is present in individual folders.
