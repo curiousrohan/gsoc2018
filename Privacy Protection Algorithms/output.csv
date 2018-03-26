@@ -1,0 +1,939 @@
+proposal submitted :)
+Great I'll be submitting the proposal by tonight :)
+The approach should be as language independent as possible, but English is an obvious choice for first trials.
+okie, one last question: Is this project about multilingual data or just English.
+Hi this is a project about pseudonymization. I suggest that you do a search for "GDPR" on this chat log for more information about the privacy protection project. It is by far the least concrete project at this point. Many challenges, but that makes it quite interesting. You should be quite informed about the DOs and DONTs when it comes to GDPR.
+some more questions for you since you are the supervisor for the Privacy protection algorithms project: 1. are we talking about the plain text data here if yes then what approach you are referring here removal, categorization or pseudonymization. 2. you are referring to a website here so which approach you are referring here: uploading a document for anonymization or copy-pasting the text. 3. Removing "name, address, ethnicity," makes sense but why is it referring to remove the interest and political views. As these things are one of the main deciding factors for ML system. 4. What is the main use of this project and what kind of rich text data we are referring here? 5. what kind of input data you are referring here?
+you can choose 2 projects, but it's not realistic that you can do both at the same time. So that means you'll have to write a separate proposal for each.
+one more question. Is it possible to express interest in 2 projects or we have to choose only one?
+Okay, thanks
+Data scraping will be part of the project, yes
+One more question, are you providing with the datasets for the following tasks or we should add the data collection/scraping approach in the proposal?
+yes, we haven't had time to discuss proposals with individual students due to the overwhelming response. So you can definitely submit a proposal as-is.
+Hi, I wasn't able to discuss anything before. But is it possible to submit a GSoc proposal without a discussion with the mentors as I'm quite short on time. Background I have some experience with NLP, NMT and ML So i;m interested in project 1 and 2
+Sure just keeping relevant details regarding project since we didn't get time to discuss. It has been kept to the point. Thanks :smile:
+That's exactly right and thanks for taking the time to explain this. There are really no hard and fast rules. Most important part is whether or not you can convince us to work with you and this is as much competence-based as attitude-based (in as far as we can gauge the latter).
+Basically, tell them about yourself, both project related as well as who you are in general and then talk about how you would approach one (or more, if you wish) of the projects that they proposed (or propose one yourself and explain why it is super cool and why you want to do it as part of GSoC). You don't need to be overly concrete and detailed, just try to present them _the story of you_ and do it in a way that makes them want to know more :) At least that's what I got from the description, I might be completely wrong :D
+It depends on the organisation you apply to, for CLiPS, the only actual "rules" you have to follow are the ones outlined at the very bottom of this page:
+Can anyone guide me how to write a proposal for GSOC 2018?
+goelrohan6
+it can be a bit more than 2 pages, but remember we have to read all those proposals, so go easy on us :D
+I read that proposal should be of 2 page but I think it is not too strict and adding a page more to elaborate things more won't harm. What's your say? Though I won't make it unnecessarily long.
+Thanks :grinning:
+no problem
+I have already included my bio in the proposal itself. Is it ok? Or should I change it?
+you can send the cv in a separate file
+Do I have to include my bio in the proposal itself? Or is there any option to add it separately in a different file?
+Thanks :grin:
+I thought we had to scrape data and annotate data on our own for the sentiment analysis project
+you can assume the data to be annotated, no problem. It's gonna be a lot of work to do it by yourself though.
+Okay sir. I've mentioned in my proposal that I will be annotating the data on my own and have written the rest of it assuming I have annotated it. Should I make changes to my proposal or let it be?
+we may need to crowdsource some labeling, yes
+aspect-based sentiment analysis is a tough task, but if you feel you're up to it, that'd be great
+we'll need a clear problem statement and an idea on how you aim to solve the problem. This can be a work in progress at the time of proposal writing. A good description of the state-of-the-art surrounding your problem is also very much advised.
+Hello, I am India based backend developer come researcher. I have worked on sentiment analysis, summarizer and category predictions of tenders. Currently, I am working as a part-time researcher at IR Lab at DA-IICT. Sir, I just want to know that I have one my own project idea. And which is not being solved yet. And I have some solutions to this problem. So, What things I must describe in proposal letter? Please help me out. Thank you.
+since we would be scraping and annotating tweets, we would be scraping a lot of tweets. Will it be possible to label so many tweets in 3-4 weeks time?
+Hey! Is the Political Sentiment Analysis project more focused on aspect-based sentiment analysis or is it more generalised?
+Nope
+is there a template for the proposal?
+Your cv/bio is not part of the proposal
+, in the above chat messages it was mentioned that our proposal should be 2-3 pages, does that include our bio as well, or just how we will handle the problem?
+Okay thanks for your help! :)
+if you already have the solution, there would be no need for a GSOC, right? 😊 A work plan will do.
+Thanks! And also do we also have to include the code for the solutions we propose or just the work plan will do?
+we'll need insight into how you think you will tackle the issues of your project. A work plan is essential. Your proposal should show that you are a creative and independent worker. Your cv does not have to be part of the proposal. You can add that seperately.
+What all things should we include in our proposal?
+Hello
+Sure. Thank you . Looking forward to it.
+hi due to the overwhelming response, we won't be able to review draft proposals. Good luck with the final proposal!
+shall we share draft and then you will give feedback or will it be a one final proposal?
+Alright!
+hi you don't need to follow a template
+Hi, I'm Karan from India. I wanted to know if you guys have a template for the proposal which needs to be followed?
+you will need to write your own proposal outlining the work you propose to do. Then we go through the reviewing process and as soon as we know how many students GSOC will give us, we'll do the final selection.
+hi as previously mentioned, due to the overwhelming response, we won't be able to review draft proposals. Good luck!
+I have submitted my draft proposal. If possible, please review it and suggest any improvement I should make to my proposal before final submission.
+No problem sir, I'll contribute to the existing project ideas up there in the document. How does work flows? I mean, the proposal reviewing and the subsequent steps once we select an idea that interests us.
+we don't have time to interface on individual project proposals, I'm afraid.
+I've worked on handwriting recognition, image processing and REST APIs. The project ideas seemed quite interesting, out of which Profiling dashboard appealed to me the most. I also have a few ideas which I'd be glad to discuss.
+Apologies for being this late, for I was keen to go for an org with Machine Learning projects and it took time me to figure that out. Very much eager to contribute to CLiPs
+Hi, this is Hritik, a Computer Sc. sophomore at the Indian Institute of Technology Mandi. Whom can we discuss our project proposals with?
+ok😊
+Ah yes of course you can. It's just a suggestion.
+or can we propose any other ideas?
+about nodebox?
+I don't understand the question
+just to clarify.is that the only option we should work?
+thank you 🙂
+sure!
+thank you. Also, I found quite a few interesting techniques for sentiment analysis. Would you recommend I include in my proposal that I want to try out a few of them?
+thank u🙂
+Sometimes less fancy work just as well, so no problem in principle, but a comparative analysis with deep learning (which does seem to have specifically good properties for sentiment analysis), would be required.
+For sentiment analysis project
+during literature survey I found that the state of the art seems to be deep learning, would you consider our applications if we used NBSVM?
+these should be submitted alongside your application. We won't review stuff before the application deadline
+you can add a demo project to your application, but it's not required.
+this information is on the main web site -source/gsoc/timeline
+if you can showcase previous projects you did, that'd be a plus. A nice tool for creating dashboards developed by some mentors here is
+Hello Everyone, I am an undergraduate from Accra Ghana. Looking forward to contribute to CliPS! I recently took a class in Machine Learning and I have done various projects with classification algorithms such as Logistic Regression, Naive Bayes, Random Forests. I also implemented Gaussian Discrimant Analysis and KNN in my course work. I would love to work on 'Sentiment analysis of political tweets' idea since I can smoothly frame it as a classification problem (positive, negative, neutral). I am currently going through the resources provided in the ideas page. I also sorry for being late, the truth is, it took me very long to find an organization with machine learning projects than I was enthusiastic about. I will be back with more questions for clarity of various aspects of the projects.
+Alright, thanks ! :)
+Hi. I believe that there are no warm up tasks for any of the projects. You can contribute to CLiPS's projects such as Pattern etc. on GitHub if you want to but other than that it is just your proposal and some showcase of the code you produced in the past (either send a link to GitHub repo or, if private, send the code by email to one of the prospective mentors). At least this is what I've got from the chat session on the 1st of March. Good luck :)
+Hi everyone. My name is Akshaj Verma. I'm an undergraduate student from India. I would like to work with CLiPS as my mentor organization for GSoC'18. I have experience developing with Python, Keras, and TensorFlow to build and train neural network models. I have worked on image recognition using CNNs, time series forecasting using RNN-LSTMs as well as on classification problems using DNNs, Logistic regression, and Decision trees. I have also worked with Pandas and Matplotlib for exploratory analysis of data. I would like to work on Context free text generation tool. Is there any warm up tasks that have to completed before submitting the proposal?
+you can know about the timeline of GSoC here: -source/gsoc/timeline
+could you mention the duration of GSoC. I started writing my proposal and wanted to know the details of the same
+Hi! sorry for late.This is my first year with GSOC..I am interested in dashboard project.What criterias do you expect to get selected?
+we are going to wait till after the deadline
+cool github! Be sure to submit a proposal.
+There is a lot of info in this channel already on how to get started. We won't have time to guide individual proposals and review them before submission.
+do a search for GDPR in the chat above. Lots of info already there!
+Hi! I'm Abhipsha Das, a sophomore in Computer Science and Engineering from India. I'm a machine learning enthusiast and have worked on projects on handwriting recognition and classification. I've only just begun with NLP but I love the project ideas mentioned here, specifically hate-speech monitoring and sentiment analysis. I have some ideas on how to extend that for some more applications.
+Will you start evaluating proposals as soon as you start getting them i.e. after March 12 or will you wait for all the proposals to come before the deadline i.e. March 27 ?
+waiting for a prompt response, you can check my github profile here:
+Hello, I'm an undergrad from India, a js freak and am interested in working on Context-free text generation Can someone guide me how to get started, which issue should i pick up first, how do i get familiar with the code flow
+goelrohan6
+Hey I am a third year UG from Pakistan. I am interested in profiling dashboard and privacy protection algorithms project. Can the mentors please tell me how to get started?
+Hello I am third year undergraduate from India. I am interested in profiling dashboard project can someone please tell me how to get started ?
+I'm Prakhar Srivastava, Junior year, CSE undergraduate from India. I want to be the part of GSoC'18 under your organization! Particularly interested in Project 1 and Project 2. I would be obliged if admins can tell me how and where to start with your organization!
+Can you please clarify on the privacy of data project? We must anonymise the data which can uniquely identify a person like name, address, IP address, health data, etc? Or is it like we have to remove the data in the text, that can find out the author of the text?
+Good luck with your applications!
+Thanks for your answers and time. :slight_smile:
+Someone suggested GSoC will be using a 2-page limit this year, but this is not something I'm aware of. I'll look it up. But actually, 2-3 pages should be enough to compose a good, strong proposal. Or 4 if you really have a lot of references or example code or images. But not 8 (it is hard to keep your attention if there are also many other proposals to read).
+I was referring to this one.
+I am actually not aware of a page limit, could you give a link to the Google document that says so?
+one last thing I would like to confirm whether we need to limit the proposal to 2 pages (1000) words only. Because I saw in the previous chat that you had mentioned somewhere it should be less than 6 pages(maybe more than 2).
+*The chat session is over now. We'll keep this site open for a while, so you can still post questions here and we'll do our best to answer them as quickly as possible.*
+
+Where can I get an extensive documentation for Pattern toolkit?
+It's not set in stone, though, so if you feel more comfortable in another format, by all means go ahead.
+thanks for the guide
+There should be (1) a problem statement (2) an outline of the solution you suggest and (3) a work plan on how you aim to implement that solution. It's always a good idea to work around milestones that you want to reach.
+So what is in general an acceptable structure of the proposal?
+No there's no template.
+Is there any template for the proposal aside from the page limit?
+thanks
+many annotation tasks can be done in a spreadsheet. For more complex stuff, we can set up a BRAT environment
+is there an annotation toolkit within CLiPS? Any idea how to manage the annotation process.
+The annotators will be the students and the mentors, perhaps other CLiPS people and master students. We wouldn't need extensive guidelines for hiring external annotators, I think.
+thanks.
+thanks. Given that recruiting annotators could be a bottleneck, logistically how could this be best manged? As well as how to ensure a consistency across annotations, would it be necessary to develop annotation guidelines? Who should the potential annotators be?
+yes!
+so the way I understand the task is get data from some sources, annotate the data, build classifier(s) on the annotated data, and evaluate to establish a baseline. Would you consider this a good understanding of the task?
+the pipeline should allow for retraining on new data. But that's pretty much a given in any kind of machine learning setup.
+You can choose your tools, but we like our own Pattern toolkit of course :)
+I am off for the night, thank you all for the answers! And good luck fellow students!
+thanks. As a data task what tools would you recommend for a workflow? In terms of development efforts do you foresee?
+What will the classifier focus on to handle the dynamic nature of data (here I mean tweets)? What if there is a dataset shift issue? Would like to have your thoughts on this.
+I don't know if we should tackle aspect-based sentiment, that could become complicated very quickly. My own interest is in monitoring online hate speech, but there are many more useful applications for a good sentiment dataset + system that is specifically trained on political discourse. I know there is interest at Google in that stuff. Your application could mention further possible applications, of course.
+broadly speaking what use cases do you see for a curated dataset of political talk with sentiment annotations? What level of granularity of these annotations will be most useful and feasible, as these days I read about aspect-based sentiment analysis?
+Thanks for your time. I'll explore something more on that aspect and present it in the proposal.
+that could work rather well, actually.
+What if we use some dependency parsing rules to create a binding between words and then train an embedding on that. We can then use these embedding as features in any neural network task.
+thanks for the clarification
+some prior experience with NLP is a definite plus of course.
+That does make sense. Thanks.
+Assessing agreement is a step we'll definitely do. We can enrich the dataset with publicly available datasets from other sources, but the development of a well-curated, well-reviewed, manually annotated dataset of political talk is a core task. The political debate has gotten too polarised to risk adding more biased data + technology to the forum.
+Hi everyone, I'm interested in working on the privacy protection project, however, I've python knowledge. Is there any prerequisits or anything to read to get familiar with NLP and this project in particular? Thanks :smiley:
+Thanks
+to be fair, it's a Google Summer of *Code*, so there should be a strong development part to your project
+you can submit more than 1 proposal. But I think for your own sake, it'd be better to focus on picking 1 topic and concentrate on making 1 great proposal.
+Given that annotations are expected to come from humans, would it be necessary to assess annotators' agreement. I think that while having quality dataset we trade-off quantity which might lead to exclude the application of powerful methods such as deep learning
+What is the specific expectation from the developers. Is it more of development job. I would work more on research and possibly get a paper out at the end.
+So should I submit two proposals or do I need to choose one or combine them into one proposal?
+sounds interesting, yes
+I also briefly looked at your paper Sounds Interesting.
+Is a task such as text summarization or information retrieval of any interest to Clips? I have worked on it a lot and would be happy to continue working on it.
+Thank you for the answer, I will see if I can get involved to test the Pattern waters.
+Pattern 3 needs a few last fixes before we can release it. Then we can start adding new functionality (we're free to choose, it could for example be the new sentiment analysis for political discourse). Combining two projects is appreciated, if you are up to the task.
+Nowadays, there is a module for everything. I feel so enlightened today.
+a lot of languages have taggers available to them, though.
+So that rules out POS tagging.
+There is also this one - -gop-debate-twitter-sentiment/data
+true
+Yes definitely, but I feel getting annotated data in large quantities is the fundamental problem in NLP. We can do some transfer learning by learning on a simple large dataset.
+the code should be as language independent as possible, so that future users can apply it to their own language
+it's a good starting point, but we don't want to make GSOC kaggle-like and stick to one specific data set.
+Is the sentiment analysis task language-specific?
+There is even to get the data on presidential election
+okay, great! :) thanks for your answers!
+I have been thinking of proposing for Pattern 3 alongside Sentiment Analysis. I am wondering if contributing to Pattern is a requirement for getting accepted on the Pattern 3 Project.
+We can get the twitter dump available publically. There is one at SNAP as far as I know.
+The Twitter API is what we usually use too (through our Pattern toolkit). It retrieves only a subset of all the available tweets, but there is so much political debate these days that this should hardly matter.
+you'll always have to go through the API. Using pattern, tweepy, ...
+We could scrape with Pattern, no?
+also, is there a preferred way of scraping the tweets? I have used the twitter API before but I am not sure if it is optimal
+I have access to compute Canada supercluster.
+We can also access to the Emmy supercomputer at Erlangen university, but there should be a very good reason for requiring its processing power and/or GPU's
+ah ok
+Yes its by explosion.ai which is part of the spacy developement team.
+Thanks for clarifying!
+we have some GPU machines available at CLiPS. We can give you an account there.
+Speaking of training embeddings, will students have access to machines/GPUs to help ease the workload? I assume most of us don't have very powerful computers (I think this has been mentioned briefly before, but I would like to know if we can expect semi-consistent access to such machines).
+I though spacy was just the preprocessor for sense2vec
+you're welcome. Good luck!
+Okay! I think I am done for now :smiley: Thank you very much for hearing me out again!
+that's a good work flow. In the proposal you should describe this flow and list potential bottlenecks that you may face at each stage. Try to show that you are aware of the potential pitfalls.
+This is what I was taking about
+Have a look at sense2vec by spacy
+There is no predetermined set of labels, you can propose some in your application. We are mainly interested in the range love -> like -> neutral -> dislike -> hate -> dangerous/violent
+One more question and you may have answered it before (if so then sorry for that). A simple workflow for the sentiment analysis task would look like - 1) Tweets collection and annotation -> 2) Preprocessing of tweets -> 3) Data preparation then Training a model, its evaluation and so on. So, should our proposal contain indepth information about each stage in the workflow or just a general outline about how we would approach the problem?
+try PhantomJS; alternatively try Chrome Headless with localhost domain. Alternatively, try deploying it directly to a server where it should end up immediately, like Heroku. To me it seems like a network filtering issue.
+then who could be the potential annotator(s)? Would be a valid task as part of the project to prepare annotation guidelines
+Oh! So is there any suggested work around? Could I take up some other task as an alternative? Just in case I am unable to figure it out.
+I meant - is there a set of labels that you would like to have for the task?
+true, but ideally you'd take pretrained vectors and then retrain them on your target domain.
+For sure (I actually prefer GloVe, I have been luckier with it). I was just pointing out using pre-trained embeddings might be preferred, since building them takes a lot of time. :)
+Fasttext's implementation is also pretty good. Some people don't like working with gensim. Also worth looking into Glove as well.
+hmm that's tricky. You would need to find a way to render either SVG or HTML directly, both which require a browser. PhantomJS is an alternative, though I haven't had much happy experiences with it.
+I guess there is also one implementation provided in the gensim module.
+We'd like to manually annotate the data during the project. We prefer less but high-quality data over more but automatically-labelled data. Once we have a good collection of handcrafted data, we can of course add extra columns with automatic annotations.
+There are also other pre-trained embeddings available online. For example, for word2vec, you can find some here: -api
+Would it be ideal for the annotations to be done automatically?
+Ideally we'd like the data to end up in Google Sheets, each row a tweet (or Facebook post, ...) with columns with annotations (hateful? positive? right-wing? ...)
+also check this out
+sentiment analysis involves detecting the mood of the person that writes something: positive or negative tone (I love it, I hate it, ...), angry tone, hateful remarks, trolling behaviour, ...
+Hello, I am interested in Sentiment analysis project. I wanted to ask -- is there a recommended labelling approach for the newly scraped tweets?
+I have also trained a word embedding on Reddit data ( which has wide variety of domain). Using this reddit data embeddings we can train a neural net to classify.
+I have some confusion on the task of sentiment analysis on tweets, is it a form of stance detection in the political domain? Any clarification would help. Thanks
+Hmm.. Okay. I will try that. And if Puppeteer doesn't work, can I try to find other ways to achieve the same task?
+haha good point! Last year there was an upload field though, so maybe Google hasn't activated it yet.
+yes that's a very weird issue. I'm using Puppeteer on a different project without issue. One thing that you could try is seeing if localhost , or just file:/// urls work
+Thanks for answering my questions!
+Cool, 1000 words sounds good. I think you should specify it somewhere, will save you some effort reading 8 point proposals hahaha
+exactly!
+i understand the difficulty in linking the two idea. I will try to implement a very basic version before 12th of March. If I am not successful, and there's a big chance i might not, i will try to implement them separately.
+I also agree with that. There are lot of corpus present on the internet containing positive words, negations etc that we could use for sentiment analysis. But then our model will be bounded by those limited words. Also, lexical features alone are not sufficient for identifying sentiment and therefore, contextual features may produce more accurate models.
+it's the easiest to acquire yes, but the classifier should work for other types of data as well
+exactly. The dictionary could be a "simpler" version of coreference (e.g. to map the correct gender)...
+Also if both Offline rendering and Twitter bots involve the use of headless browser, then I would have to figure out a way to solve the issue that I was facing, as I described in the repo issues.
+One question, are you looking only at twitter data?
+ah I didn't know. We'll look into that. 2 pages is about 1000 words.
+bot identification could be an extra task, but the mean focus is on sentiment (negative / positive, angry / sad) ...
+it's an interesting task, but very hard to do while analyzing a single tweet. It'd probably involve a lot of network analysis on top of that. So the link with sentiment analysis is not that definite.
+One more thing, the last time I participated, we were supposed to write the proposal in a text field online. Not sure if the system has changed, but there is not upload option. It would be easier if you specify the number of words rather than number of pages for the proposal :)
+Oh.. So implementing Dictionary just involves providing a syntax for user to be able to make his/her own dictionaries, whereas Coreference involves the bulky task of keeping track of the central topic.
+in the previous chat session i had mentioned trying to identify bots and human generated tweets. There have been work on this and I would like to add this to the sentiment analysis idea, i.e, i would try find a way so that the sentiment analysis algorithm also predicts if the tweet may be bot generated.
+that's a good resource, yes, but we'd want something that can also do out-of-domain words. 14k words isn't *that* much
+the dictionary feature is much simpler, I think. In addition it can be used for other features as well, e.g. assigning colors to categories.
+we can use Affective(EPA) vectors for each word. I use this affective dictionary a lot here at University of Waterloo. You can find it here
+Wouldn't Dictionary come under coreference then?
+that's indeed a hard baseline to beat. For GSOC you'd have to find a better, or failing that, a more interesting approach.
+Okay. Thanks for answering my questions.
+I have used DeepMoji to predict emotions in PR comments for my research.
+there's no standard in terms of labeling that I'm aware of
+most obvious source would be social media data, yes
+Yeah I have read a quite a lot of them before. Also, and it may seem like a stupid question, but are there any predefined labels that we should annotate our tweets dataset with?
+twitter bot: once offline rendering is supported, we want to provide support for users to easily create a bot that can post on GitHub. Here we need a way to configure the Twitter API keys per user using a web interface, and a cron job that posts new sketch outputs on a schedule.
+CMU ark does do a good job, however its restricted to twitter. Ive noticed it fails miserably for out of domain data, even on something like Facebook!
+And whats the source of the text? Is it going to be noisy (Online Social Networks)? Or can I expect the data to be from a more sane source, allowing me to use existing nlp systems. Furthermore, will we be collecting this during the summer?
+we don't recommend outlining weekly goals. You're right, that would not be possible given the page limit. A general outline of the timeline suffices.
+community: yeah, a place for adding support and a place to showcase your work. This needs to be done but probably is not a good choice. It's more of a server configuration task than a programming task
+I am sorry to bother you again, but I wanted to clarify I few things regarding some of the goals of the project you mentioned in the morning chat session. 1. *Offline Rendering* - I wasn't completely able to understand what needs to be rendered offline, the editor as whole app, or just the output of the sketch or is it something else that I couldn't identify. 2. *Community (gallery/forum)* - Does it mean that there needs to be a gallery where we could display that top latest sketches/graphics? 3. *Dictionaries* - I got no idea what could that mean in context of the project :sweat: 4. *Twitter Bot* - From what I could understand from the project ideas list, the project involves creation of a twitter bot that allows user to create ads and then tweet them on Twitter using the Twitter ads API. I am not sure if I am going in the right direction.
+it's actually a very different task that we want to accomplish. We are looking for a script that "recodes" a collection of texts (e.g. tweets) in such a way that we can still perform trend analyses, but without being able to re-identify the individual authors of a text.
+that helps!
+Furthermore, the last time I participated in GSoC (2015), I was recommended to set weekly goals. I don't think that is feasible given the current proposal limit (2 pages?) What do you expect from the proposal?
+_Data_Protection_Regulation
+*too
+Hi, are there any universal guidelines being followed or set by the EU for the Privacy Protection project? As an end goal, what should we ensure. Naively, I see running an NER should do the trick. However that seems to easy for a summer.
+recognizing sarcasm is an extremely difficult task to do well. We haven't worked on that problem ourselves, but there's a lot of publications around that can help you on your way
+I'm online now, you can ask me!
+Of course. I understand that. Also, as I have worked on the problem of microblog summarization for the past two years now, I am aware of the difficulty in recognizing sarcastic tweets. So, did your society ever work on the problem of irony/sarcasm detection before using which we can build up our solution for sentiment analysis or do we have to build everything up from scratch?
+if you're building a demo in the context of your proposal, I'm sure that's fine. During the project itself, we'd prefer you to work with new datasets that you yourself have collected.
+Regarding the task of sentiment analysis of political tweets, for presenting a demo of our work, could we use a dataset of tweets already present such as the one on kaggle?
+unfortunately there are simply too many applicants for us to be able to pre-screen individual proposals, I'm afraid
+your proposal has to fit on 1 pages, so that sorts itself out, really
+I had a few more questions regarding the project goals that you pointed out in the morning chat session. If you could spare a few minutes, I would be very grateful.
+Better, if it is possible for some mentor to look at my previous work and give some suggestions.
+get a few minutes from a mentor before I could start of to work on my application. :)
+I had mentioned that I have completed a project on a sentiment analysis of tweets. I can very well extend it for political tweets. I also had great results over multipolar classification, i.e. angry, sad, happy, surprise sentiments. It would be great if I could
+Had an exam! I missed it :/
+Bye everyone! Best of luck for the proposals!
+How much detail is too much detail when writing the proposal?
+Thank you for your time. Bye everyone!
+*Ok everybody, I'm signing off for now!*
+there's nothing different in there, so not much point.
+we've already done that, so it's not material for a GSOC.
+Already there I think.
+could you share the intial version of clips gsoc proposal ? probably dated around 13th feb
+what do you think of text based gender prediction ?
+Mentors, Thank you very much for your time. :slight_smile: this was really a great informative session.
+we'll only look at it in the proposal, most likely.
+good suggestion for next year :)
+what if I wanted to submit a demo before my proposal for review?
+thanks for hosting chat session. Too overwhelming in fact to keep track of messages. Would have been better to replay in terms threads.
+Thank you very much for the time! :relaxed:
+A demo is not a requirement. If you do add one, add a link to your proposal.
+Thank you very much for all your replies in this chat. Time to work on the application now.
+one last question. should the demo which we are submitting be code attachment in the mail or link and access ton private git repo?
+Totally :smile:
+you're a bad influence, man :D
+so i feel that you should submit the same proposal three times for better chance of acceptance
+Thanks .
+thank you for clearing all my doubts
+if they are very different, yes
+you can submit upto 3 proposals
+One last question, if we have a new proposal, should be we submit 2 proposals, one for our new proposal and one for the one suggested?
+Alright. :slight_smile:
+I have to go now, thanks for all the interesting questions!
+How long(weeks) do you expect dataset creation and annotation would take place? what is expected size of dataset in terms of number of tweets?
+not that I can think of
+yes; we already use it in production, we want to extend the possibilities towards more complex text generation (ie. coreference) and connection to web services (e.g. generate text based on Twitter input)
+due to the page limit, you won't be able to go into much detail
+Then someone would hire a top kaggler for the project. :P
+I know. It was a tempting offer :D
+One last question. Apart from what has been discussed here, any suggestions from your side for applications on hate speech detection task which may have been missed out and you feel it is important for us to list those as well.
+In our proposal do we need to give technical description in depth or do we need to provide them in brief?
+I was jk. dont take it personally yo.
+Thank you!
+Time is almost up! But the chat will remain available, so you can ask a question if you want to. Mentors may check back sporadically in the next days to answer your question.
+:D
+..
+how about making it in three parts, you, me , and my friend?
+no that's not allowed (GSOC-rules)
+Is it possible to collaborate with one of our friends, submit one proposal, and divide the prize money?
+Thank you everyone. This chat session was really helpful.
+nice ideas bro. you will get selected for sure.
+thanks for the reply. So, what I understand is, that that project is related to increasing the functionality of the seed project?
+I'm afraid you'll have to be the one to choose :) They're both interesting projects
+dhruv.srivastava
+I am really confused between the both (combat of hate speech and counter speech / fake vs real reviews ). I just wanted to know your opinion so that i will focus more on writing that .
+We'd like a new dataset, with fresh data manually labelled by multiple annotators (including myself). But we can include other data too of course, to boost cross-domain performance
+One last question. Apart from what has been discussed here, any suggestions from your side for applications on hate speech detection task which may have been missed out and you feel it is important for us to list those as well.
+Thank you sir. One more doubt, how do i club this proposal with one of the projects in the idea list? Do i have to submit 2 different proposals or a single one?
+can you do a search on the term "GDPR" in this chat? It explains what we are looking for.
+experience teaches me that it's best if you yourself focus on making 1 great proposal. But you are free to submit 2.
+I guess I interpreted it differently...I was think in terms of a text-in, text-out system which would first identify named entities, addresses, phone nos. etc. and then remove them from the text while still being able to convey what it had to....Do you just want the metadata contained in the tweets to be anonymized (user mentions, urls, etc.)?
+Shall i send two of them as separate ones?
+it'll be hard to describe two projects in 1 proposal, I can imagine.
+specifically for graphics support, we'd also like to implement interpolation between colors so we can animate between red and blue, for example.
+Looking forward for your proposal if you wanna go down this road
+the rocket.chat will stay open for a while, so you can still ask questions here.
+it's not a very challenging project, I'm afraid.
+- Account system, like CodePen - Embedding options in different sites / APIs - Making Twitter bots - Offline rendering - Community (gallery / forum) - Dictionaries - Better editor support - More complex text generation (ie. coreference)
+There are some extra features we're looking for that have more to do with how the system operates than what it generates:
+I want to frame my proposal on combat of hate speech and counter speech with extension of deep learning models for fake reviews as my sub-proposal . Both are two different things. Can i merge them under same proposal ?
+Oh one final thing. if we have doubts later, do we ask them here or send you a mail?
+the system (seed.emrg.be) can already generate visuals. It outputs text, but this text can also be HTML or SVG >> so, graphics.
+I also had another project idea which is about automating the mailing lists used by almost every organization based on it's content. I had been a collaborator in a similar project and can give you the demo if you say.
+Thank you very much for this detailed explanation. Seems to have cleared all my doubts.
+The application can also provide a default code for general purpose problems like connecting Python to SQL, using Django for the first time.
+this is more for en
+Do we have to manually label a dataset initially and then apply ML algorithms on that or can we use already available datasets to train our models?
+in the idea "context free text generation", do we need to generate visuals as well, or text from the visuals. The idea statement is unclear. Would you please explain it?
+-sql-by-using-python Queries and problems that developers face like the one in the link. The application will be able to interact with the user like a debugger and suggest changes to the code.
+thank you for your help everyone. cheers
+we'll have to see, yes
+I agree with that .But if the idea is good and can we try later if both are interested?
+We'd like to finish a complete project during GSOC. It's hard to maintain stuff after.
+The idea is that we'll build the system from scratch: new data set of current political debate, a nice open source algorithms trained on the data. It can tackle any number of tasks, such as predicting negative vs positive, angry vs calm, hate vs love, dangerous, racist, ... combinations of those, ... It depends on what you feel confident that you can take on. Essentially, we'll have a spreadsheet with political tweets that we collect, and add annotations in the columns, and then train ML systems or write Python functions that use those annotations.
+Sure, only a starting point (although you can query using full human sentences and it doesnt only support command line – basically scanning stackoverflow). What do you mean by "Maybe some debugging queries, some connection errors. Mostly focusing on the error queries than the syntax specs."?
+Can a part of it be taken for GSoc and will there be a chance to develop it further?
+not as such
+it's an interesting idea, but a bit out there. It'll be a lot work to finish during GSOC.
+Noted. Thanks.
+I am sorry. I just wanted to clarify whether my idea seems to be a good one or not.
+please dont type long messages. It is a chat
+not at all
+yes that's a given
+do you have any microtasks which you would like us to do so that it gives you an idea of our capabilities?
+If someone submits a good proposal early, will it get more preference than a better proposal submitted late?
+I thought of this but i am not sure you will be interested in this The volume of scholarly publication per year has grown dramatically in the last two decades, along with an explosion in the number of papers that are available online, indexed, and searchable. In recent years, the study of citation network has gained immense popularity among social network researchers. The number of citations to a paper determines its popularity among researchers. We specifically choose table citations along with the total citation counts to answer the following questions since papers when cited in tables are generally because of some improvement done on the cited paper or because of some dataset offered by the cited paper. In this study we aim to find the effect of table citations on the popularity of a paper, its temporal citation count, how new techniques are improving upon old techniques with time. In this research we aim to answer the following questions: 0. Extract table citations from paper pdfs (using CNNs as they do for image extraction). Exploit various NLP techniques post extraction to build accurate table structures. 1. Can we efficiently predict the future citation count using present citation count and present table citation count? 2. Do papers having high citations, tend to share their citations with papers which cite them in tables. 3. What papers are improving upon a given paper(or technique) over time.
+While building our system, do we need to address the challenges which have already been listed in the state of the art systems for political hate speech detection task?
+I was thinking of much more complex queries made in Natural Language and not command line statements. Maybe some debugging queries, some connection errors. Mostly focusing on the error queries than the syntax specs.
+not in particular.
+are there mentors who are working on bibilographic data especially scholarly articles ?
+it's not so much about sensitive data. It's about transforming texts in a way that prohibit reconstruction and re-identification of the author.
+Isn't this the "Privacy Protection" project. How do you know which information is sensitive and which one is not?
+this is not a machine learning project, so this doesn't apply.
+Are you looking for unsupervised solutions for this project?
+ok, I am very curious :D
+The data would be completely unreconstructable unless the user gives the consent. I am working on this and can give you the demo during this weekend. :)
+.n Have a look at this:
+we did fake news last year, so we'd like something different this year, to be honest
+I was thinking of collecting data from sites like Stack Overflow, Quora related to questions in Python . This data will be then used to train a deep seq2seq model which can then act as a chatbot using a good UI
+the fake news one performed last year is mainly on liwc features and POS tags ,syntactic parse,article body . I tried that on dataset yelp( a fake vs real reviewer site ) but the accuracy is low. So I wanted to investigate utility of sequence models such as LSTM in differentiating fake and real reviews. Does that sound good?
+the script would wrangle the tweets in such a way that we can still extract information from it, but without storing information that would allow for individuals to be identified.
+for the chatbot may be we can scrap stackoverflow and use that data to train the chatbot.
+I do not get how twitter data will work with this, can you elaborate a bit?
+I really don't see how it's possible. The task is to wrangle the data in such a way that it becomes unreconstructable.
+sort of... Is it a good idea? I can provide the demo over this weekend if you say so. :)
+Choice of libraries is free, but we like our own Pattern library of course :)
+Sure, you can submit your own project idea, possibly in combination with one of our proposals. A chatbot that replies to queries that developers face in Python sounds like a fun project to me. How would you tackle that?
+Thanks. I will keep this in mind during my application.
+you don't need to outline weekly deliverables in your proposal, though. That's too detailed.
+You can propose your own project, but we like to see ours happen to of course :) You could propose to work on two tasks (one of ours and a related one of yours)
+yeah but the data would be encoded in a way that allows for reconstruction.
+Yes, that is quite possible. I am concerned with both collection and annotation of data as a whole so as to mention in our application according to the weekly deliverable.
+no that's not allowed (GSOC rules)
+the data can only be restored at user's consent without which it would be impossible.
+we like our own library Pattern. But you are free to use others.
+Can we form a team on our own and submit proposal as a group?
+you won't need to collect training data for that project, as it's not machine learning based. Twitter data would suffice.
+I'd prefer less hand-labelled data over more crowdsourced data I think, but this is open for debate. If you think crowdsourcing is the best way forward, you could build a strong argument for it in your application
+Do you have any particular Python libraries in mind? Or are we free to go our own way?
+not that's not possible. True anonymization prevents re-identification of any sort.
+for the privacy protection algorithm, can you give us any ideas from where we can start building the data set?
+Do we have to stick with the idea list for the proposal submission? Can we propose other NLP related projects ?
+I was thinking that once the data is anonymized it is possible that while using that data to train another model user's personal data might be required (example tracking by google requires precise location of the user). So can we build a feature which could restore the anonymized text to original state if the user gives consent to use his personal data. (As per GDPR if a person himself gives his consent for using his data it can be used).
+there's also a search option in the right toolbar that can help
+REPOSTING: Isn't there a page limit of 2 pages for the proposal?
+Hi Antonis, please take a look at the earlier discussions, there might be some answers there already!
+that's a good way of handling this
+A followup "dataset-creation" question: I am thinking of scraping data from Twitter and then annotating it by hand (maybe crowdsourcing). Would that be acceptable or is it not permitted?
+that's a task for which I can imagine you can get a lot of data in a limited amount of time.
+I am talking about the political hate speech detection task.
+the work starts from scratch during the coding period, simply because we don't have the time to start before (although the Seed people are already working with some students right now - so it depends on the task that you are interested in)
+.dipta.das teams will be compiled after the selection phase. It'll depend on the candidates we select.
+is their any possibility to have a team for this project as both data collection & developing the algorithm are challenging?
+it's hard to say. it depends on the task, really.
+also please elaborate more about working in a team
+I'm not sure how that would work
+Hi guys! I am interested in proposing a new project related to NLP and DeepLearning. I was thinking of some chatbot application which can accurately reply to queries that developers face in Python. Is it possible to propose an idea related to this project?
+you can use existing data sets to bootstrap your work. But you'll probably need to collect some extra data as well
+What can be the maximum time we can spend on data collection and annotation so that we can focus more on our systems for fine tuning?
+for data protection can we add feature to retrieve the anonymized data (at user's consent of course)?
+we did fake news last year, this year we're more interested in hate speech etc., although you could mention fake news as an extra subtask in your proposal, if you feel you are up to it and can propose a realistic timeline
+I read something about creating our own dataset. Is that right? Also, do we have to build our dataset from scratch or is it better to combine existing ones (that are open to the public)?
+do we need seperate proposals if desire to work on more than 1 project
+If I have an new project idea then how should I describe it into the proposal letter?
+exploration is great! We value creative ideas
+thank you.
+looking forward to it
+I had asked because of the time constraints we have to deal with for GSOC.
+My knowledge of Bahasa is very limited, but all languages are encouraged, provided that you can demonstrate that you can bring the project to a fruitful end, and demonstrate good uses cases for its need
+thanks a lot for answering all my questions. Hope to give you guys a good proposal worth accepting
+Hello all, my name is Antonis and I am interested in the Sentiment Analysis project. In the proposal, do you value laser-focused ideas or is there room for exploration? I have been messing around with different models and I am still not sure which is best suited. (Sorry if this has been asked before, the chat is going too fast!)
+how was it?
+Thanks a ton for answering my queries and
+yeah hand-annotation is always preferable as we do not have to compromise with the quality of annotation. :slight_smile:
+Isn't there a page limit of 2 pages for the proposal?
+if i wsh to work on two prrojects should i submit two seaprate proposals?
+the proposal is what you submit on March 12.
+Should the work of proposal be started from the scratch during the coding period or can we already start it before and continue to work under your guidance?
+we probably won't be able to pre-review proposals due to the large number of applicants.
+good proposals should be longer than 1 page and shorter than 6 pages I think
+thank you so much for your time. Will look forward to submit the proposal for the projects
+would applying on March 12 give us room to get our proposals reviewed?
+we definitely prefer independent workers. People who are not afraid to argue with us too :)
+Which proposal is more likely to get selected. Someone with a very strong proposal which requires less help from mentors or a good proposal which will take lots of input from mentors?
+I'm sorry I dont quite understand what you mean by this?
+descibe how you will do that, yes
+Crowdsourcing data collection and annotation is an option, but carefully hand-annotated data is more reliable, and more valued by the research community
+I would select the one that interest you the most. They are both interesting to us.
+then in my proposal i need to do two things 1. build the dataset 2. develop the algorithm. right??
+I have two idea which i described one fake vs real reviews detection and the problem of hatespeech and counterspeech. Which one of the both would you suggest to be a good problem statement?
+yes but mind the page limit. It'll be hard to motivate 2 projects in 1 proposal
+I heard that some organizations provide proposal revision and review before the deadline. Will CLiPS provide it too?
+good luck!
+and can we apply for more than one projects via the same proposal?
+My checklist of FAQ is done. Thanks for quick replies. Will be applying the proposal on March 12. Thanks :)
+You can always demonstrate understanding of Pattern, we highly value if you can combine a task like privacy protection with working on Pattern. You could write a gist on github that shows off a crawler of common person names you built, etc.
+I don't understand the question
+yes, but this can be brief. A general outline will do
+please help me which appears to be a good problem statement for finding mentors from your side to continue on this is that thr fake vs real review detection or counter speech and hate speech one ?
+Do we need to put in a timeline in our proposal pertaining to our project of choice?
+if i want to apply to multiple projects, do i need to make seaparate proposals?
+2 pages
+we did that in GSOC2017 already:
+silly to ask but how long should the proposal be?
+Apply on March 12, we might not have the time to review pre-submission draft proposals
+yep
+the other idea i had is regarding this .News articles are the primary source of health-related information for a large chunk of common people, although these pieces of information first appear as scientific articles in health-related journals. This is because, unlike scientific articles, the news articles are written in simple language that can be easily understood by the general public. News agencies and journalists rely on the published scientific article and the associated press release for the content. However, while putting information in a news article they, knowingly or unknowingly, often exaggerate the facts and claims. Automatic detection of exaggeration in a news article can help the general public to be cautious while reading its content. In this work, we plan to explore the syntactic, semantic and latent features (word2vec, doc2vec etc) that could potentially detect exaggeration. Also, we will examine LSTMs and memory networks based techniques to build a classifier based on top of these features that can accurately detect if a news article is exaggerated and at which level it is exaggerated.
+Is there any predefined GSoC proposal template to be followed ? Any specifics that are must mention in proposal (except the implementation and timeline though)
+ok...then we need to scrap some data from the twitter. right??
+that's also a very interesting task and something we would certainly be interested in
+it'll be hard to do a project on hospital data, is what I meant.
+I am thinking this way Hatespeech is a serious issue which has become more widespread as the reach of social media increased. While there are multiple ways to tackle hatespeech, the most effective method in the long run seems to be counterspeech. In this project, we focus on the different aspects of such hatespeech and the corresponding counterspeech. Specifically, we look into the following research questions in this project: 1. Do the users who take part in the hatespeech and counterspeech form a community? 2. How much does counterspeech help in reducing the effect of hatespeech? 3. How counterspeech hashtags differs from the hatespeech hashtags? 4. Can we build automatic methods to detect counterspeech. Apart from standard features we plan to investigate latent models like LSTMs etc. for counterspeech detection.
+ok. I will try to find some literature which have tried to achieve that.
+not that I'm aware of
+not our main area of expertise
+then what do you prefer...in which data , we should tested out our algorithm??
+uy is there any similar data set to GDPR we can check out for reference ?
+can we think of some projects on network analysis rather than using nlp features?
+YES YES YES! :D
+yes, but as CLiPS we may not be allowed to handle such data. It's very sensitive.
+is it a good idea to identify whether a tweet is from human or bot-generated?
+I'd stick with the idea you outlined above, though
+i actually have one which is made by our institute's NLP lab
+Noted.Thanks!
+Not sure as I'm not familiar with the language, but I guess you would run into problems with tokenization since it's not as easy as in the supported western languages and you would need to fall back to some kind of pattern matching?... what's your take on adding Bahasa Indonesia support?
+integration in pattern is not a requirement for this project. It'd be nice though
+i had a couple of ideas in my mind. I want to know whether i can discuss pros and cons and what can be done reagrding them
+we won't be able to review draft proposals, I'm afraid.
+I am interested in the "Privacy Protection" project. Do you want this to be integrated with Pattern? If yes, do you want us to demonstrate the understanding of Pattern's codebase (may be with some tweaks or applications)?
+I imagine we'll only select 1 for sentiment analysis
+Any info about the review and suggestions on the draft proposals? Shall we mail them or apply at GSoC on March 12 for draft stage?
+fine. I asked this due to the time constraints keeping in mind.
+very hard to get in terms of privacy
+There are a lot of student that interested in sentiment analysis. How many students do you need for this project?
+there are simple too many applicants for us to be able to do that, I'm afraid.
+what about hospital patient data??
+that's an interesting task indeed. we will definitely find a mentor if accepted
+can we mail our proposals to you for the check..like you can suggest improvements in it and then we will submit it finally
+could u share some areas to improve in pattern
+I am think on these lines. These platforms heavily rely on user reviews for recommendation. Under this circumstance it is extremely important for businesses to maintain authenticity of information and develop technology to detect early signs of fraudulent behaviour. In this project our goal is to study large scale review corpus and investigate utility of sequence models such as LSTM in differentiating fake and real reviews. More specifically let’s assume that a review is a sequence of characters, and each subsequence has two states i.e either useful or misleading. Our goal is to learn a model which will output a score for each state for the entire review by leveraging sequential patterns and help us in classifying it as fake or real. We would also like to investigate how the standard features based models reported in the literature compare with our DL models. Will there bea mentor for this ?
+:D Not a bad security measure; definitely good to have some backup, just in case :)
+We'll do another hour. We might check back sporadically in the next days too
+Also is there a scope of remote project apart from GSoC wherein we con contribute to CLiPS
+thanks for your time
+Thanks for confirmation :) I was screenshotting the things :) haha!
+The data will need to be hand-labelled, otherwise we'll build a classifier that predicts NLTK classifications
+good luck!
+we might have some budget for crowd sourcing, but my personal experience with the quality of this has not been very positive
+.gupta You would need to use capital G in the tag for Guy to see your question as addressed to him.
+Thank You for your time. Will start working on proposal. :grinning:
+it depends on the project
+Following up on my previous question. what are the possibilities you have been looking for data annotation? Can you be more specific towards this? Do we have the option to crowd source it for annotation as such?
+Is data collection too is part of the project or CLiPs have the data available? If yes then how big the data is (does spark/cassandra come into picture too ) ?
+Pattern is a toolkit with many useful functions in different areas for different problems. Examine the package and see what is there, that should give you an idea of what Pattern needs. In short: multi-language support, more prediction tools (sentiment, ...), more case studies, new algorithms, ...
+there's no such data that I'm aware of.
+pattern can handle twitter scraping. Also tweepy. So that shouldn't be much of an issue
+.takawale Last year I was able to access the platform and read the past Q&A after the chat sessions. I guess the only difference is that you won't be "guaranteed" and answer outside of chat sessions.
+Interesting, certainly a way to make Pattern available to more people, although I'm not sure how big the R NLP community is ;). But honestly, I'm not sure if I would consider this a high priority task at the moment, there's primarily work needed to improve Pattern itself at the moment..
+can you please provide us any sample data set for GDPR ??
+Can we have this conversation archived to view if necessary later?
+you'll need to know your way around machine learners
+for twitter sentiment analysis would we be required to stream live twitter data an work on that or will there be a specific number of tweets?
+what if I want to add Bahasa Indonesia to pattern? Is it a good idea?
+is to important to have big data knowedlge for sentimental analysis project
+it'll be online for a while still
+Oh ok!!
+Is this platform temporary and ends in few hours? Or its here to stay?
+but you would be making that model. We will not use existing models to annotate the tweets.
+plaintext in, plaintext out
+we do skype, e-mail. Last year we used an internal forum. But perhaps slack or rocket-chat are easier.
+But if we use a pre-existing model to label the collected tweets won't that hamper the accuracy of the model
+you should try to zero in on the methods you want to use, how you think you'll implement them and how you will evaluate
+for the candidates that get accepted: how will they communicate with the team, since this is not something on site but from home? Do you do video conferences, emails, slack?
+can be inter-related, but doesn't need to be. Pick the tasks you like most!
+what should be included in the proposal for sentimental analysis project
+:D 10pt
+what are the possibilities you have been looking for data annotation? Can you be more specific towards this? Do we have the option to crowd source it for annotation as such?
+gold standard labels are great, but you can also do a lot with silver standard labels. for example have emojis indicate the labels
+and similar
+wrapping with R
+So you're talking about wrapping Pattern functionality with an R or Lua library or are you talking about a rewrite?
+you can work on it outside GSoC, but we try to avoid this _during_ the GSoC, as it introduces double standards (some students with a stipend, some students voluntarily)
+It's silly to ask but what will be minimum font size you'll are comfortable reading as people have a lot of ideas to squeeze in only 2 pages:grin:.
+that's for Google to decide. We think between 2 and 4.
+There are a lot of student that interested in sentiment analysis. How many students do you need for this project?
+What exactly would be the measure of labelling the collected tweets? Would they need to be hand-labelled or they need to be classified on the basis of NLTK
+it'll be a hard task to evaluate, so we'll have to wing it
+thats what I wanted to hear! Thank you!
+maximum how many members will be allowed in the gsoc team
+Thanks
+:)
+Whats the metric or how *Privacy protection algorithms* project will be evaluated? Alike, for Political Analysis we have labels and Accuracy, ROC_AUC score?
+good luck!
+Absolutely! No need for specific model architecture beforehand, but be sure to understand and clearly describe the problem and difficulties you expect to occur and what might be promising approaches
+not sure if I understand the database vs paragraphs distinction
+If am new to open source and have less contribution....are my chances are less or shoul i try to fix some issues to increase my chances?
+you don't need to avoid mentioning deep learning, but on the other hand don't mention it just because you think it might impress us. A deep learning approach is harder to share, takes longer to train, is more difficult to interpret what is happening on the inside. If tests show that we can achieve the same results with simpler techniques, we should go for the simpler techniques. In summary, you could mention 1-3 possible learning approaches that you would like to compare
+we do want to give the selected candidates all our attention, so we may not extend the team in this way. We'll have to see what makes sense.
+How do I know if my idea are matched with what Pattern needs?
+oh alright. I'll get started then. Thank you so much
+so all that is required to be done here is design an algorithm that cleans data according to GDPR. Can u tell me the format of this data? I mean will his be plaintext or encrypted or json files?
+but my question is in my demo work should i implement it on a database or a set of paragraphs??
+Thank you for your time!
+If a candidate does not get selected through GSoC but would still like to contribute to a project apart from it how would we be able to contact you?
+that's a rather broad question, though.
+But if we propose to do 2 tasks, those should be inter-related, right?
+good luck!
+Sir, i would like to apply GSOC 2018,came across an exciting project "Data Sentiment analysis of political tweets". I would like to know some more details about the project in depth,about frameworks that can be used and basic format of your GSOC application.Please provide me all the details needed.
+you would already need to be aware of best practices to be eligible for a GSOC project
+Whats the metric or how *Privacy protection algorithms* project will be evaluated? Alike, for Political Analysis we have labels and Accuracy, ROC_AUC score?
+Thanks for your time, I will start working on my proposal and submit it soon :)
+I understand. I thought it would kind of go against the DRY principles, but I decided to ask, in case there were some administrative constraints or something :) Thanks for the answer.
+does porting pattern to work with other languages like R, lua be an interesting proposal ?? or is it not where u see pattern going ?
+you're welcome!
+we can discuss that after the selection phase
+you can write 2 separate proposal, but we can only accept one of them. If someone writes a proposal that is as good as yours, but mentions 2 tasks, we would of course be inclined to pick that one...
+Okay! It was great that this chat was organized. Clarified several aspects of the project. Thank you for your time and help!
+yeah
+since I am fairly new to open source, are there any coding practices that I should know about?
+a demo is not a requirement, though. But feel free to do it if you think it's relevant to the proposal.
+I think there will be many good applications on Sentiment analysis which reduces the probability of selection. I'm ready to work on the project or any other project outside of GSOC. Is it possible to do that? :)
+finding the right tool for the job is instrumental. It may deep learning, it may be other techniques. We are not blown away by deep learning as such. It's just a means to an end.
+What exactly needs to be included in the demo?
+There are a lot of student that interested in sentiment analysis. How many students do you need for this project?
+other machine learning algorithms may work just as well though
+Since simplicity is preferred does that mean proposals not/less mentioning the use of deep learning would be encouraged?
+Can't we submit 2 separate proposals? Will enable us to orient the proposals as per the 2 different project ideas!
+I would actually say the entities don't acutally need to be removed
+Data flow: a text mentioning my name and my address goes in, a text with and placeholders comes out (very simplified example)
+I wanted to use deep learning for data protection project because it would be highly scalable for multiligual data anonymization as complex feature would automatically be learnt from the data itself :)
+only on the proposals, yes. So if you do create a demo or something, include it in your proposal
+yeah i also have that kind of plan..but if it isa database it will be more robust but in case of paragraph we need to do proper entity detection whose performance may affect the algorithm!!
+1 proposal please, no need to produce 2 separate full documents
+being able to take initiative and work independently is important.
+this is a good site to get familiar with GDPR -sensitive-personal-data-blog/
+will we be evaluated only on our proposals? Are there any other evaluations that you will conduct?
+Sure, Just wanted to clear if we need to have a concrete architecture or model while applying or would being cognizant of the difficulties and my suggestions at tacking them would suffice ?
+can i get more about sentimntal analysis project
+can you suggest some link where I could read up the privacy protection topic?
+we'll stick to these two sessions
+No, write the proposal about yourself. But if you mention two tasks that interest you, and another accepted student does the same, it makes more sense to work as a team instead of 1-1 mentor/student individual projects
+does porting pattern to work with other languages like R, lua be an interesting proposal ?? or is it not where u see pattern going ?
+that would be agreat
+will more Q/A or communication sessions like this be held as the email had only mentioned 2 such sessions
+that's actually part of the task: finding a proper way to do this.
+i would like to apply GSOC 2018,came across an exciting project "Data Sentiment analysis of political tweets". I would like to know some more details about the project in depth,about frameworks that can be used and basic format of your GSOC application.Please provide me all the details needed.
+I am interested in sentimental analysis project
+Ohkay! Thank you for letting me know that. Is there anything in particular you would like to point out to me regarding the proposal?
+Hello sir
+For sentiment analysis could try aspect based sentiment analysis approach as an enhancement option?
+now we can't do that, I'm afraid
+i am still not clear with the privacy detection algorithm. The idea list says that you want to develop a web service to de-identify the data. Please tell me the data flow through this
+Using deep learning (doc2vec) to enable deep learning? Recursion sure is fun :)
+You would need to file your proposal before community bonding period, so the proposal should already contain some insights on your preferred methodology and how you plan to tackle the task
+I agree!
+In general, deep learning models are a possibility, but we are not necessarily impressed if you mention deep learning in your application. Simpler techniques like Perceptron or SVM have been known to produce very good results in NLP too
+an interesting opportunity would be to represents texts as directed graphs and perform network analyses on the graphs.
+Is it possible for me to have a look at previously selected proposals?
+I understand. It seemed to me that it would go against the DRY principles but I thoguht it better to ask, in case there are some administrative constraints or something :) Thanks for the answer.
+yes!
+can i work on GDPR for the dataset which have database like structure or we need to build it on the paragraph or sentence level?
+that's what word embeddings are for though :)
+yeah I mean, just exploring an option
+A question with *Privacy protection algorithms project* Was wondering what is the metric/measure to evaluate the project as whole. Alike for first project we have labels and can score the models on Accuracy, ROC_AUC score. Whats such metric for this project? Thanks!
+will more Q/A or communication sessions like this be held as the email had only mentioned 2 such sessions
+it would be a start, but I don't think it will suffice.
+US politics are interesting because there is a vast amount of data on Twitter, but other regions are interesting too. I would focus on English data, though.
+You can always pay Jeff Bezos to do your training ;)
+Unless we adopt semi-supervised approaches
+we have GPUs available
+Since we need to annotate data ourselves, I doubt we'd be able to collect enough data to train deep neural nets
+see above
+Thank you for the resource and making things more clear!
+will text summarisation work to make the author unidentifiable, for the privacy protection ?
+That was i was thinking about.
+no you don't need to worry about the team. If it's relevant, we'll decide the make-up of the team.
+if we somehow end up using deep learning, it will be tough training them on PC's. Is there an alternate?
+which one of your proposed project are more beginner-friendly?
+can we use community bonding period to do our literature survey to come up with something new method , or this has to be done before the proposal ?
+No, don't write "group proposals" that depend on other people. We don't know what the team will look like.
+Google actually says specifically that you can't propose things with another person. Then what's your idea on teaming up?
+Where can I read more about data privacy protection algorithms?
+Thanks. If I decided to propose to work on two projects, should this be done in 1 proposal or should I create a separate proposal for each one?
+deep learning is cool, but not a 1-stop solution. If other algorithms work better or just as well, there's no need to use deep learning
+, one more question about teaming up. You said that it would be beneficial to work in a team. I am fine with it, but, however, the proposal is an individual thing. Should I bother to get my colleague(s) involved to improve my chances?
+I recall - Snowden movie :) from that
+yep :)
+is deep learning model for data protection project recommended?
+more tasks could be added, but I would use the basic list I sent you as a reference point. The importance is that we can judge how realistic your targets are
+You can look on Google Scholar for Natural Language Generation (NLG) but don't dig in too deeply, it gets complicated very quickly (language generation seems easy but is a very hard task). Above all, Seed is a fun new project. If you can bring NLG expertise to the table, that's great, but I don't think it is a prerequisite.
+for that project, we do prefer candidates familiar with NLP
+This project sounds way more fun, interesting and challenging one
+deployment is not necessary, but welcome
+do you have any implementation preference, like lexicon based or end to end dl, for sentiment analysis?
+but i know python to a great extent
+you would need to read up on the specifics of GDPR and how this affects data collection. Texts need to be wrangled so that re-identification of the author is no longer possible. All that while losing as little information as possible. Yes, it's a tough one :D
+Do I include a weekly timeline in the proposal, given that there could be more tasks added to the list as we move ahead with the project?
+i am new to NLP world can i still work on the sentimental analysis project
+so is the ML model the only deliverable, or some sort of platform like a web app that it can be deployed onto as well?
+you dont need to worry about the teams. If it's relevant, we will decide the make-up of the team
+Quick Question: Is this platform temporary ? If so will there be any other session till Dead line date
+other countries are fine too. Ideally in a language we understand though
+Can you provide a few of the goals that need to be fulfilled for the project privacy proection algorithms?
+does the political tweets have to be related to american politics. Or we can use some other country too?
+aspect-based sentiment mining would be great. But it's a tought ask
+if this is a team project, how do we express that in our proposal
+Is there any restriction that for twitter sentiment analysis we should only scrap the tweets related to US politics or we can scrap tweets from other political regions also?
+Detecting subversive content (hate, deception, bot) is very interesting, but also a very hard task. You'd have to write a strong, convincing proposal if you want to tackle that. But it might be good to mention such as a task as an interesting side-track, should we have the time to explore it, or stumble upon it.
+weekly is a bit much, yes. It's hard to predict anyway how things will go
+I will try a proposal for something similar
+does the political tweets have to be related to american politics. Or we can use some other country too?
+i have a question related to sentimantal anaylis project
+
+and after the positive-neutral-negative scoring. what would be the next step?
+Asking this again for visibility: Given the 2 page limit on the proposal, do we need to include weekly deliverables as a timeline? I know this was a necessity in the previous years (for the org I worked with) but they didn't have a limit on the proposals at the time
+you can start with the traditional positive-neutral-negative scoring.
+hello guys
+Given this, would you like the students to submit their proposals so that they are inline with each other?(:3001/channel/gsoc2018?msg=iNSxpJT8SB5YZ4wqS)
+for sentiment analysis of political tweets, what types of classifications do you need the tweets to be in?
+We want new datasets that reflect the current state of politics (i.e., post-Trump), although we can integrate other data sources if these are freely available of course
+Thanks!
+if you have a great idea, we'd love to hear it!
+that doesn't matter at all
+thank you, i will look into it
+There have been some request to add support for languages such as Brazilian Portuguese and others. This would involve dealing with morphology, inflection, lemmatization and such, similiar to what you can find e.g. here for the English language
+If you want an introduction to the topic, I would definitely recommend now almost canonical -effectiveness/ . It might give you soem ideas on where to look next for information :)
+are you also open to smaller projects for people who are currently learning NLP, or your main focus is proficiency?
+will depend on the scope of the project
+for sentiment analy
+would you say that submitting a proposal sooner would be better than later?
+Since the collection of data is also one of the perspective of the project how are we supposed to label the collected tweets. Do we use the data to be classified using NLTK?
+that project is not so much a data collection project. You'll need to collect data to work with, but not for training.
+We like all 5 projects and would love to see them all happen. Proposing to work on 2 instead of 1 is encouraged. Proposing to work as a team with other students is highly encouraged too. If you rather work solo, we can respect that too, but then you will have to convince us that you are the very best student to tackle a task single-handedly.
+Plus, are the data tagged projects are seperate or they come under 1 GSoC project?
+that's not my area of expertise. Ask and
+search this chat for the term "GDPR" for an answer
+Got it :)
+Is working with pattern preferred compared to NLTK or TextBlob? And as there are limitations to the number of tweets we can pull from twitter, how many tweets will be used to build the corpus?
+a working implementation is required, but it doesn't need to be production ready.
+Given the 2 page limit on the proposal, do we need to include weekly deliverables as a timeline? I know this was a necessity in the previous years (for the org I worked with) but they didn't have a limit on the proposals at the time
+what exactly are the deliverables expected from the sentiment analysis project?
+how do I get the dataset for privacy protection algorithm?
+and As mentioned that some knowledge of text-generation would be nice to have for the project 'Context-free text generation', and I don't have much knowledge about it, could you suggest some resource regarding it?
+can we use name and other entity detection for that Privacy protection project ?
+it's not sentiment analysis, but definitely an interesting political classification task
+and I have prior experience in NLP and at Kaggle competitions too. I was wodering what is the goal or final outcome of the project. Does it need to be deployed into some production or its just a case study project report
+, do we have time up to the 25 of March of the faster the better to submit proposal?
+mentioning several possible approaches instead of 1 solution is more realistic I think
+yes, but then you run the risk of overfitting on a particular data set
+For the political tweets project do we also have to include methods to detect malicious users/accounts.
+a follow up to a previous question about the classification but would classifying as Democrat or Republic also be considered as part of sentiment analysis?
+not as such. We love getting pleasantly surprised by the applicants :)
+There already publicly available tweet corpus like UK election dataset (-election-tweets-2017-june-1) , wouldn't it be better to use already available datasets?
+Research papers are encouraged but you should not add it to your timeline. The time is for coding and creating data sets. Research papers are an extra that you undertake voluntarily. GSoC is intended for open source, not so much for publishing research
+Thanks for clarifying it.
+that's great, are there any minimum requirements from your side? Like a mid review, survey report etc
+that could be a new module in pattern for instance
+I meant that a paper in 2013 tried classifying the tweets in 3 classes i.e. positive, negative and neutral but that attained and accuracy of 65%. So what all classes would we be considering in this project? Should they be positive negatve and neural or can vary to sad happy etc.
+Yes, I have introduced myself to Firebase while working on the issues on the repository, and am will be learning more about it.
+a good background in NLP is necessary indeed
+can we use name and other entity detection for that project ?
+for the twitter sentiment analysis what is the final product that you guys expect at the end ?
+we'd like you to formulate milestones
+While writing proposals for research-oriented projects, do you prefer that we focus on a single concrete solution methodology? What about formulating the problem clearly and coming up with 2-3 ideas for its solution as even a good looking solution might not work in the end? Which one do you prefer?
+please tell the prerequisites of working on privacy protection algorithm. I have experience of working with NLP
+do our proposals need to have clearly mentioned deliverables or is that you would be telling us?
+we won't be able to do them all. We'll rank the proposals on their own merits and fill in the relevant teams after the selection.
+Applications that mention possible research papers (alongside great code and great data) as an end result are encouraged
+In the Google Doc there are 5 suggested projects + the 'own proposal'. Do you intend to fill all of these or only some of them, based on the strength of the proposals you receive for each? Also, speaking about the positions, will some of the projects have more than one collaborator assigned or are they all strictly solo work? // solo meaning excluding existing CLiPS personnel of course
+text generation part is more the expertise of and — maybe they can point you to some references
+can you clarify?
+you can submit more than 1
+oh and Firebase!
+good question. Whatever we can reliably predict would be great. The more fine-grained the better.
+Yes a corpus, hopefully accompanied by an open source repo and a functioning web service
+what should be the end product of sentiment analysis project? Do we need to make any web app or something as final product?
+I am interested in doing GSoC on data science project.
+What all labels need to be addressed for the classification of sentiments of tweets as in positive negative and neutral or the labels can vary on a different scale
+If I wish to work on more than one project should I submit just one proposal or a proposal per project?
+thanks. One more thing and it may sound stupid: are there any number of classes you are aiming for? Ex- democrat and republican, happy and sad etc
+yes, but for that project any data source will do
+Hi all :)
+I am quite familiar to the frontend part (HTML, CSS, CSS grids, SVGs), but not quite to the text-generation part. Is there any particular resource that you would like to recommend to me?
+Add a link to the code in your application, or send an email to the gsoc.clips account with some code
+can we have a time in our timeline in the proposal to write a research paper with the outcomes for the sentiment analysis project?
+do we need prepare our own dataset for the privacy protection project idea?
+Thanks for answering
+You can propose your own topic, but of course we are mainly interested in the topics we proposed. GENERAL REMARK TO ALL: not all of the tasks we proposed need to take 3 months. You can propose to work on two tasks, either two tasks we proposed (e.g., sentiment + Pattern, or Seed + dashboard), or one we proposed and a related project of your own. Offering to work on more than one task in your application will be highly appreciated.
+yes
+you can submit more than 1
+i have read some research papers and have got some idea on how to implement sentiment analysis idea. i will start working on it. How should i share the code once i am done?
+depends on the source from which you pull your data
+some knowledge on the domains we use it for would help a lot: text generation (huge topic!), SVG generation, website generation (e.g. HTML, CSS, CSS grid layout)
+Can we extend this work to have a possible research outcome? Or is it limited to just build a system for analysing the sentiments?
+thanks!
+can u elaborate supporting a new language as a gsoc project
+you could look at SocialSents for domain specific lexicons for instance
+What will be the final product for twitter sentiment analysis? A labelled corpus of tweets?
+I'm interested in two projects. Can I submit proposal for both of them?
+are we allowed to submit proposal to different projects of yours or is there a limit like only one proposal per org?
+regarding the political tweet project. What can be a good source of data? I mean the problem is classified data?Any starting point?
+I see, thanks for the answer :)
+yes
+can you please tell me whether that data set will have fields or it will be a paragraph?
+no that would just be front-end work
+Great resource! Apart from JavaScript, is there any particular technical requirement that you think I should spend my time learning?
+no that's not necessary
+not yet
+specific to the project I mean.
+Can I submit more than one proposal for different projects?
+Graps is a mini-Pattern with good, straightforward algorithms, it's a hobby project that may be swallowed by Pattern, or get docs of its own (in part this depends on what our GSoC students want to work on)
+that's the beauty of it: there's not much out there, so it's pioneering work
+I have done work on the sentiment analysis for a hackathon how can I show the code to you?
+there's a lot of information out there on sentiment analysis!
+can please tell me whether that data set will have fields or it will be a paragraph?
+Also Does the project on privacy protection algorithms have any data available with CLiPS that needs to be used?
+In line with a question asked above: Is the end goal just building a system that can classify a tweet into good or bad (positive, negative, angry, troll etc)? Would our resulting model be a tool or software that we release, or are there any plans for taking it forward as a research paper?
+can u elaborate supporting a new language as a gsoc project
+if we intend to submit another proposal to another organisation as well, do we need to specify it in our proposal?
+we'll need to see what makes sense in terms of team and alloted students
+If I were to apply for the 5. Profiling dashboard project, would this involve only the work on the bridge between the API or would there also be some work on the profiling tool itself?
+for the author privacy can we apply a text summariser? There won't be any infringement of privacy by it's use and we can also get the essence on the text
+, Do the group has any specific interest in the topic (proposed by us) ? I saw group previous work in stock market price prediction using text-mining. Could be some extension of the work or a different topic such as usage of sentiment analysis in Software Engineering?
+for the privacy protection project idea would you be able to give us an example or some link for examples to look at for this?
+For the political tweets project do we also have to include methods to detect malicious users/accounts.
+sentiment analysis in political tweets
+Coreference: the idea is that the system "remembers" who it is talking about. E.g. gender should match up, etc. ()
+measuring inter-rater agreement (Cohen's kappa) is very important to avoid bias, especially in political discussion
+is there a limit of one student getting selected per project ?? or more than one can be selected?
+From all of those project ideas, i like to work on " Privacy protection algorithms" topic.i have some questions regarding that topic
+remind me the project your interested in?
+That was a great help! I am bit confused with the coreference part thought. Can you help me understand it a bit better?
+yes data collection is part of the task
+Yes, I thought it might be a problem. Thanks for the answer :)
+thanks. Could you mention some starting point for this project that I can look at?
+It's undecided as of now and depends on the preferences of the student. If you have any specific ideas that's great to mention in your proposal. Some ideas from our side: working on the web scraping in pattern.web (e.g. integrating new data sources or refactoring some existing ones), could also be something algorithm–heavy in pattern.vector, something related to visualization in pattern.graph or potentially even supporting a new language (not sure if feasible within GSoC, but could be great start). Looking forward for you proposal!
+For privacy protection, you are free to explore all options (such as Stanford NER), as long as the end result is a neat, tidy module or package that can be installed by others in no more than, let's say, 3 installation steps
+we don't expect you to re-invent the wheel, so looking at state-of-the-art is fine. But any new ideas are certainly welcome.
+I'll participate in GSoC 2019, all the best to you all! :blush:
+in the context of GDPR, you can't just collect texts without consent of the author. We are looking at methods to still collect data, learn from it, but in such a way that we don't harm the author's privacy.
+are you expecting us to come up with a new approach that could be published maybe or are you expecting us to implement a method described in a paper?
+Better to send an example directly in mail than to add me to your private repo. Extra steps to get to your code decrease the chance of getting us to look at it (due to the many requests we need to look at)
+what is grasp toolkit? is it similar to pattern? readme does not give any description
+How can we avail those APIs provided by CLiPS?
+you will need to collect your own data
+Some of the big ones: - Account system, like CodePen - Embedding options in different sites / APIs - Making Twitter bots - Offline rendering - Community (gallery / forum) - Dictionaries - Better editor support - More complex text generation (ie. coreference)
+no it's about removing anything that would enable you to re-identify the author of the text
+can you elaborate, didn't quite get that
+kappa*
+should we mention previous work done in relation to the project we opt for in the proposal?
+I understand. I meant in terms of the deliverables, is it only a system that works well (based on it's performance) or do we also need to consider rigours of a typical research problem (eg. establishing validity of annotations through metrics like cohen's kapps)
+Hi guys. This is Shivam. Final Year iMtech from IIIT-B. Just wanted to clarification regarding the dataset. Will the dataset be provided? Or do we also need to explore regarding generating dataset?
+for the data protection project is the aim removing / anonymizing the named entites in a given piece of text?
+that's hard to know beforehand. An estimated guess is fine
+No, I don't think so.
+Several API's exist to scrape Twitter (and other sources). Choice is free. We prefer our own Pattern and Grasp API's, which have proven their worth for over 5 years now.
+Do wee have to collect the data by ourself for the sentiment analysis project?
+I'll participate in GSoC 2019, all the best to you all! :blush:
+you will need to collect yyour own data
+Is it required to have an end product based on the real time tweets?
+is there some discussion with community which is on-going about the new features ?
+it's not just a named entity issue though. It's about re-identification of the author of the text.
+the goals should align with the list features for Seed, since that's the tool we're developing.
+clarity of your methodology, a description of milestones and some proof that you know what's going wrt state-of-the-art
+Or if you have a list of tasks somewhere, then I could ponder upon it and highlight it in the proposal?
+The new features for Pattern 3 are not decided yet. You have a say in what is important to develop or not too
+in our proposals, do you expect us to clearly define the accuracy you wish to achieve?
+If I come up with my own project, should I prepare my own dataset or I will be helped with the datasets?
+try to aim for a mix of state-of-the-art and your own ideas.
+So there won't be much to be included in project goals in the proposal I guess?
+basically in how many classes do wee need to predict the sentiment of tweet?
+that's a possiblity yes
+for the privacy protection algorithm project will we need to script our own module for classification or can we use pre existing libraries such as Stanford named entity Recogniser or nltk?
+Can you please tell me the main points I should keep in mind while writing the proposal?
+Presently I don't have a project related to sentiment analysis. But I can code one over the weekend. What kind of project will strengthen my proposal?
+I understand. So for there won
+you should describe that in your proposal, yes
+Sorry, I did not make myself clear. I meant whether it would be okay if I shared my private GitHub repo with you by adding you (or anyone else from CLiPS) as a collaborator. But I can definitely just send the .py files over email (or share them via Google Drive).
+are we looking for novelty in sarcasm detection methods? also how do we get to know the community till 12 march??
+no not against the rules
+Pattern 3 project mentions we will be implementing some new features which will be decided by community demand. Are these new features decided ?
+We are interested in predicting offensive language in political tweets (so negative vs positive, angry vs sad, ironic, hateful, trolling, ...)
+could we work on implementing an existing academic paper or would the focus be towards implementing a new technique?
+The data collection part should be using some pre-existing APIs like tweepy an twython for twitter or that too needs to be scraped from live Twitter fee
+, I know we can propose our own project. do the group has any specific interest in the topic? I saw group previous work in stock market price prediction using text-mining. Could be some extension of the work or a different topic such as usage of sentiment analysis in Software Engineering?
+not much more than 2 pages
+ah okay. I used the free API then. Apologies
+good luck!
+there are limits to what the free API provides. it's not a tweepy issue
+If we have our own idea .. is it necessary that it should use NLP ,,or any other idea using ML algos will work .. And should we discuss this idea now .. or diectly after 12th march which is the proposal submission date?
+Is it against the rules to submit more than one proposal for example one dealing with the suggested projects and one of your own ideas?
+some background in NLP and prior work is a definite plus
+Unfortunately we won't have time to read the proposals beforehand. Just submit it and it will get to us
+yep
+How long should the proposal be?
+I'll participate in GSoC in 2019, all the best to you all! :D
+Should I consider sending you the proposal for review, given the number of students applying?
+waht is expected of us till then in the community bonding period?
+I don't remember exactly but tweepy had some issues regarding the number of tweets we can scrape
+ideally something new we can include in pattern
+There are no datasets beforehand, mining the data, creating the corpora, writing the code that works with the data, are all part of the project(s).
+*if there are unanswered questions, please repeat them* it's going fast :)
+Hey Sir, I did a project in "Event Detection in Social Media Streams". I am even writing a paper on the topic. I was interested in the Sentimental Analysis project. I wanted to know of the pre requisites if any and the expected outcomes?
+we should start to send proposals by 12th March according to GSOC'18 timeline
+..
+Especially for things like annotations
+could we work on implementing an existing academic paper or would the focus be towards implementing a new technique?
+For the sentiment analysis project, is the aim only to get a working model that performs well or are there also any plans to take it forward as a research project? Our proposed approach would greatly vary in case of the latter
+text grain also offers API for sentiment analysis. Will we extend its functionality or create a new project?
+.
+I have done work on NLP how can i Show that to you?
+You can use tweepy or pattern.
+we'll wait till the project starts
+I know we can propose our own project. do the group has any specific interest in the topic? I saw group previous work in stock market price prediction using text-mining. Could be some extension of the work or a different topic such as usage of sentiment analysis in Software Engineering?
+Pattern 3 project mentions we will be implementing some new features which will be decided by community demand. Are these new features decided ?
+I don't think anyone can view your private repos unless you give them access. You could send one of the .py files in a mail to the gsoc.clips account. We highly value good quality source code, that is short, tidy, extensible, ... so showing off your coding skills is important.
+Does any open source handle for the project exist where we can contribute or are we supposed to wait till the time the project gets accepted by google and then submit a proposal for the same
+not at all. We value creative ideas above anything. SO if you have a killer idea, by all means go for it.
+I wanted to ask about scraping for tweets. Since that is a part of the problem too. Is there any framework to do that?
+Hi Tom. Is it required to have an end product based on the real time tweets?
+sir, what models should we try to predict the sentiment, are we free to use any of models on our own choce?
+there is no data like more data :) It all depends on the task, though.
+for the privacy Protection algorithm project, you require that we hide only the named entities in the text as per given rules, right?
+Presently I don't have a project related to sentiment analysis. But I can code one over the weekend. What kind of project will strengthen my proposal?
+Just a thought, is one at a disadvantage by suggesting their own project? Considering the other project ideas have already been floated...
+In principle yes, but keep in mind that you only have a little more than 12 weeks for the project so if at all you should of course narrow it down and focus on some specific niche in your proposal
+what size of data would you say we would be looking at?
+correct!
+Pattern 3 project mentions we will be implementing some new features which will be decided by community demand. Are these new features decided ?
+nltk is very limited in terms of sentiment analysis
+Yes. In the proposal we mentioned two specifics: web services / that's what we're working on right now, and coreference "stay on topic" That's still open
+how many people do you want to work for Sentiment analysis of political tweets project ?
+data collection will be part of your work
+.
+pretty hard limit :)
+We prefer simple, elegant techniques that do the trick. No need to train a deep neural network if we can get the same accuracy with LIBSVM or with a Python function that relies on word lists.
+What I wanted to say is that the in the ideas list under the project idea 'Context free text generation' it doesn't mention what will be the exact aim of GSoC, however has now helped a bit to clarify it.
+A few approaches for the detection of sentiments from sarcastic comments do exists. But the idea in this case is to build a full fledged end-to-end model for prediction of sentiments of a tweet. Am i right?
+you can use other tools of course. But We do prefer pattern.
+Sir I'm interested in the Sentiment analysis of political tweets projects and I have prior experience of Machine Learning and NLP.
+the result would be a (set of) script(s) that can perform proper anonymization in the context of GDPR
+so should I look up for more approaches to sentiment analysis that haven't been implemented by nltk?
+What will be the quantity of data(number of tweets) we will get for this task? Is the data ready yet with annotations?
+you will need to describe that in your proposal.
+So is 2 page hard limit for the proposal or can we write more ?
+can we use any tool other than pattern? Or we just have to use pattern?
+There are too many interested people to engage in personal discussion at this point. If you want, send a link to code you have written in the past to the gsoc.clips email address. I might look around in the mailbox for GitHub links to look at some of your code in advance.
+could you clarify your question?
+Okay, so it would be like a list of tasks to be accomplished?
+Sir, I am interested in Sentiment analysis of political tweets, project.
+can you describe the deliverables expected from the privacy protection algorithm?
+Regarding project on sentiment analysis, a mentioned above , you are looking for new and interesting ideas. I found similar work done on sentiment analysis for political data extracted from Tweets, can consider existing ideas as well for the set problem ?
+I think there are some datasets out there that you could re-use. But data-collection would be part of the project
+Hi Kunal — we want to extend the functionality of Seed
+is that possible to send for u our ideas and how we can complete the project ? or we should discuss that here ?
+I want to work on Neural Machine Translation, is the org interested in such a project?
+Hi Tom. For the project on sentiment analysis, do you already have some ideas in place or is it largely open to our suggestions?
+I am interested in the idea of the project 'Context-free text generation' but am not quite sure what will be its main aim for GSoC
+a bit of both
+We probably won't be able to read drafts in advance, given the high number of people interested
+Yes you can propose your own project idea if you want, it should be somehow related to what we do though (i.e. the other project proposal)
+Resources as in what exactly would be the dataset for the project. Would the dataset for the project be generated using streaming APIs of twitter or does a dataset for the project exists beforehand
+there are too many applicants to prescreen proposals, I'm afraid
+I have a draft proposal ready for sentiment analysis. Should I mail it for a review?
+whatever works best :)
+So I had tried implementing such a project before using random forests. We had scraped tweets using Tweepy and found keywords. Plus nltk already has some sentiment analysis tools
+Well written proposals that are clear and to the point (why / what / how / who / when), with references to existing papers or articles that you may have read, ideas for approaches, and some examples of your own projects (like a repository on GitHub) typically get higher scores.
+general discussion
+Can this link to a GitHub project be a link to (at the moment) private repository? It is my most relevant project but not ready to be made public (will be by the end of the semester).
+For the project Ideas that have been labelled with the "Data" tag would it be a more annotation type thing or will we be working on implementations as well?
+Is there someone I can contact for the data protection project?
+We prefer pattern
+Thanks for clarifying this. I was about to ask this question regarding collection and annotation of data.
+what kind of resources do you mean?
+we don't know how many will be accepted. That is decided after the evaluation round by Google
+I think you should first provide some details like what you as mentors expect and other information and then have a Q&A,
+can we propose our own project?
+that's correct
+how are new ideas supposed to be discussed with the mentors? :)
+not particularly. We value creative solutions above all.
+I'm interested in sentiment analysis of political tweets. I have a draft proposal ready for the same. Should I mail my mentors and ask for a review?
+We encourage applications that contain a link to a GitHub project of your own, so we can have a look at your coding skills. Python is preferred for tasks like sentiment analysis, privacy algorithms and Pattern. For sentiment analysis, we will start from scratch: collect tweets and other texts in a Google Sheet, annotate them (left-wing, right-wing, hateful, ironic, ...) and then use machine learning algorithms to build and evaluate classifiers. Other approaches besides ML (like a straightforward Python function) are also encouraged to explore.
+For the Political Sentiment Analysis project do we implement only machine learning models or can we also include some deep learning models.
+Hi! Is this interaction a general discussion or will we also be delving into specifics of the project? I will ask questions accordingly :)
+so what package do you wanna use for first project "political tweets"? is it Pattern or nltk ?
+Hey everyone. I am Shobhit Maheshwari, a student from University of Delhi and I wish to contribute to the project Sentiment Analysis of Political Tweets. Can someone help me with a few resources regarding the same
+there are too many people to individually mentor proposals in detail.
+I do have a question, currently I received an automated response email suggesting that realistically only 3-4 proposals can be accepted? But, I do have an idea of my own that I'd like to discuss..
+For the project Ideas that have been labelled with the "Data" tag would it be a more annotation type thing or will we be working on implementations as well?
+From what I remember reading, they are not very keen on reading drafts of proposals - but I might be wrong.
+there are too many people to individually mentor proposals in detail.
+Hello all
+Did a quick literature survey and found out that there are a lot of techniques to do this. Does the project focus on any one technique?
+that could be part of your proposal. An on-line demo to a proof of concept.
+While brainstorming ideas for proposal would it be better to contact mentors (if possible) and discuss ideas with them ?
+Hi :) I have already written a two-page draft for my proposal (Data protection project). Is it possible to send it to someone of mentors here (preferably in a direct message) and ask to take a look?
+so when we will be given our demo projects .. or we have to do that of our own?
+Hey everyone. I am Kushagra Agrawal from India': BITS Pilani university. I was interested in the sentiment analysis project
+I think above all, we value creative proposals that do not propose to just replicate existing methods
+Hi, I'm Arindam Biswas sophomore at IIT Kharagpur studying Physics there, but developed a deep love for machine learning.
+Is there ant way I can contact the mentors personally?
+Do you have any particular requirements or criteria for a candidate that could make application stronger?
+Exactly, quite a lot of interested participants on here
+some kind of demo would certain strengthen your proposal, but it's not a prerequisite
+I think everyone introducing themselves would be quite overwhelming :)
+Hey,This is Subham Sanghai an Undergraduate Student from Birla Institute of Technology.I am interested in your project idea ""DATA Sentiment analysis of political tweets" .For this years GSOC program 2018 , what is expected from us before submitting our respective proposals .. is there any Demo Project we need to complete or any issues you have in your code base that we need to work upon ??
